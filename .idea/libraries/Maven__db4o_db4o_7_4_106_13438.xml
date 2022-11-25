@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: db4o:db4o:7.4.106.13438">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/db4o/db4o/7.4.106.13438/db4o-7.4.106.13438.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/db4o/db4o/7.4.106.13438/db4o-7.4.106.13438-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/db4o/db4o/7.4.106.13438/db4o-7.4.106.13438-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
