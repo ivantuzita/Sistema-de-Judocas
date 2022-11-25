@@ -11,8 +11,7 @@ public class ProfessorEntidadeBOImpl implements ProfessorEntidadeBO {
 
 	DAO<ProfessorEntidade> dao = new DAOImpl<ProfessorEntidade>(ProfessorEntidade.class);
 	private AppView view;
-	
-	
+
 	public ProfessorEntidadeBOImpl(AppView view) {
 		this.view = view;
 	}

@@ -48,4 +48,5 @@ public class Aluno {
 		this.entidade = other.getEntidade();
 		this.professor = other.getProfessor();
 	}
+
 }
